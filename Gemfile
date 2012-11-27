@@ -7,6 +7,7 @@ gem 'rails', '3.2.9'
 
 gem 'sqlite3', :require => 'sqlite3'
 gem 'gravatar_image_tag'
+gem 'will_paginate'
 
 group :development do
   gem 'rspec-rails'
